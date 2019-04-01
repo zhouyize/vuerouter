@@ -24,3 +24,19 @@
 
 6.将路由对象注入Vue实例中
   router
+
+7.路由跳转
+  router-link
+  属性：tag
+
+8.动态路由(参数传递)
+  /:id
+
+9.路由嵌套
+
+10.编程式导航
+  router.push
+  router.replace
+  router.go(n)  //回退多少次页面
+
+11.命名路由
